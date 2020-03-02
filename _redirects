@@ -1,7 +1,6 @@
 # Redirects from what the browser requests to what we serve
 
-/index.html            		/under-construction
-/under-construction.html	/under-construction
+/index.html            		/
 
 
 
