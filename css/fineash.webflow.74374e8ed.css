@@ -1,4 +1,4 @@
-/* Generated on: Thu Apr 09 2020 04:15:44 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Thu Apr 09 2020 07:35:57 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -90,13 +90,13 @@
 }
 
 .slide {
-  background-image: url("https://assets.website-files.com/5e4e2de179f2007d5aa1cc5a/5e5732b5c5f6ac564e89ca19_Layer-8.jpeg");
+  background-image: url("https://uploads-ssl.webflow.com/5e4e2de179f2007d5aa1cc5a/5e5732b5c5f6ac564e89ca19_Layer-8.jpeg");
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .slide-2 {
-  background-image: url("https://assets.website-files.com/5e4e2de179f2007d5aa1cc5a/5e5732b9c5f6ac5c7a89ca20_jc-bonassin-304249-unsplash-p-1080.jpeg");
+  background-image: url("https://uploads-ssl.webflow.com/5e4e2de179f2007d5aa1cc5a/5e5732b9c5f6ac5c7a89ca20_jc-bonassin-304249-unsplash-p-1080.jpeg");
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -782,19 +782,19 @@
 }
 @font-face {
   font-family: 'Fa 400';
-  src: url('https://assets.website-files.com/5e4e2de179f2007d5aa1cc5a/5e575063a8fe077786bba17a_fa-regular-400.ttf') format('truetype');
+  src: url('https://uploads-ssl.webflow.com/5e4e2de179f2007d5aa1cc5a/5e575063a8fe077786bba17a_fa-regular-400.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: 'Fa brands 400';
-  src: url('https://assets.website-files.com/5e4e2de179f2007d5aa1cc5a/5e5750645973da7fc3c09004_fa-brands-400.ttf') format('truetype');
+  src: url('https://uploads-ssl.webflow.com/5e4e2de179f2007d5aa1cc5a/5e5750645973da7fc3c09004_fa-brands-400.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: 'Fa solid 900';
-  src: url('https://assets.website-files.com/5e4e2de179f2007d5aa1cc5a/5e5750645973da53a2c09005_fa-solid-900.ttf') format('truetype');
+  src: url('https://uploads-ssl.webflow.com/5e4e2de179f2007d5aa1cc5a/5e5750645973da53a2c09005_fa-solid-900.ttf') format('truetype');
   font-weight: 900;
   font-style: normal;
 }
